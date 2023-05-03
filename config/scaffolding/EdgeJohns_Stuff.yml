@@ -1,0 +1,13 @@
+version: "1.0"
+info:
+  scaffold: helloWorld
+  model: int-scaffold
+services:
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.286
+- serviceName: edge.johns_stuff.integrations:helloWorld
+  packages:
+  - name: EdgeJohns_Stuff
+    version: "1.0"
