@@ -62,11 +62,11 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">johc</value>
-    <value name="lastModifiedDate">1683639511437</value>
+    <value name="lastModifiedDate">1683639611086</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">default</value>
+      <value name="id">7eac3cbe02a94dec838104ce3a4287d0</value>
       <value name="group">default</value>
-      <value name="name">Default (Cloud)</value>
+      <value name="name">Demo</value>
     </record>
     <value name="displayName">helloWorld</value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
