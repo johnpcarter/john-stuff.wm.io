@@ -34,5 +34,17 @@ public final class Default
 
                 
 	}
+
+
+
+	public static final void Untitled_99 (IData pipeline)
+        throws ServiceException
+	{
+		// --- <<IS-START(Untitled_99)>> ---
+		// @sigtype java 3.5
+		// --- <<IS-END>> ---
+
+                
+	}
 }
 
